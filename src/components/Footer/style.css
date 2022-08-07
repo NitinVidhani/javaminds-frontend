@@ -1,0 +1,9 @@
+.nav-item>a {
+    text-decoration: none;
+    color: inherit;
+    transition: 0.2s;
+}
+
+.nav-item>a:hover {
+    color: var(--color-primary-light);
+}

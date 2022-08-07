@@ -1,0 +1,7 @@
+.dashboard-header {
+    background-color: var(--color-primary);
+}
+
+.dashboard-searchbar {
+    background-color: var(--color-primary-light);
+}
