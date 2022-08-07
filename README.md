@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Concepts Used in the project
+- react-router-v6
+- useState
+- useEffect
+- useLocation
+- useNavigate
+- Context Api (useContext)
+- react-quill
+- Bootstrap
+
